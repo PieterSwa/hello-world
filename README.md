@@ -1,2 +1,2 @@
 # hello-world
-just another repository 
+awe mense hierdie changes is om my eerste commit te toets. Awe!
